@@ -10,7 +10,6 @@
         <Dialog name="ExampleDialog" src="behavior_1/ExampleDialog/ExampleDialog.dlg" />
     </Dialogs>
     <Resources>
-        <File name="DenizDogaDerya" src="html/DenizDogaDerya.jpg" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
         <File name="Ratot" src="Soundset/Ratot.wav" />
         <File name="WallE" src="Soundset/WallE.wav" />
@@ -84,16 +83,6 @@
         <File name="c27d3cc93953.js" src="html/c27d3cc93953.js.download" />
         <File name="c497b3e0b31f.js" src="html/c497b3e0b31f.js.download" />
         <File name="c4b23b63b8e9.js" src="html/c4b23b63b8e9.js.download" />
-        <File name="c4ca4238a0b9.js" src="html/c4ca4238a0b9.js.download" />
-        <File name="d1cfdad451b6.js" src="html/d1cfdad451b6.js.download" />
-        <File name="d23afbef3e68.js" src="html/d23afbef3e68.js.download" />
-        <File name="ed24dea42fc5" src="html/ed24dea42fc5.css" />
-        <File name="ed4d8be06cbf.js" src="html/ed4d8be06cbf.js.download" />
-        <File name="f8ce24aca264.js" src="html/f8ce24aca264.js.download" />
-        <File name="fe8c292e4df7" src="html/fe8c292e4df7.css" />
-        <File name="main" src="html/main.css" />
-        <File name="sdk.js(1)" src="html/sdk.js(1).download" />
-        <File name="sdk.js" src="html/sdk.js.download" />
         <File name="TR_Aile" src="Soundset/TR_Aile.wav" />
         <File name="sonragosteririm" src="Soundset/sonragosteririm.wav" />
         <File name="TR_OdayaGeldik" src="Soundset/TR_OdayaGeldik.wav" />
